@@ -1,4 +1,4 @@
-export const host = "http://localhost:5000";
+export const host = "https://friend-chat-database.onrender.com";
 export const registeRoute = `${host}/api/auth/register`; 
 export const loginRoute = `${host}/api/auth/login`; 
 export const allUserRoute = `${host}/api/auth/allusers`;
